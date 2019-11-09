@@ -26,4 +26,7 @@ This Repository contains the Timesheet application for a company having managers
 Attribution
 
 https://getbootstrap.com/docs/4.0/content/tables/
+
 http://elixirschool.com/en
+
+http://www.ccs.neu.edu/home/ntuck/courses/2019/09/cs5610/notes/
